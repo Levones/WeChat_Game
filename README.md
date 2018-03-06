@@ -5,4 +5,4 @@
 ![avatar](https://raw.githubusercontent.com/Levones/WeChat_Game/master/Screenshot_20180220-161957.png)
 ![avatar](https://raw.githubusercontent.com/Levones/WeChat_Game/master/Screenshot_20180220-232147.png)
 ![avatar](https://raw.githubusercontent.com/Levones/WeChat_Game/master/Screenshot_20180221-174612.png)
-![avatar](https://raw.githubusercontent.com/Levones/WeChat_Game/master/7.png)
+
